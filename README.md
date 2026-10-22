@@ -8,7 +8,7 @@
 
 [GitHub](https://github.com/sixsixliu) · [X](https://x.com/realSixSix) · [Bilibili](https://space.bilibili.com/38689704)
 
-✦ 🌸 ✦
+✦ 🦋 ✦
 
 </div>
 
