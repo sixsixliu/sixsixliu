@@ -49,7 +49,7 @@ A patchwork QQ bot built on NoneBot, with plenty of fun little features beyond l
 
 <br>
 
-***Obviously, everything else is private or tucked away in private repositories.***
+*Obviously, everything else is private or tucked away in private repositories.*
 
 ---
 
